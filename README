@@ -1,0 +1,6 @@
+## 📦 Data
+
+To run this project:
+
+1. Download the [West Midlands shapefiles from Geofabrik](https://download.geofabrik.de/europe/great-britain/england/west-midlands.html)
+2. Place them in the `west-midlands-latest-free/` folder (ignored from version control)
