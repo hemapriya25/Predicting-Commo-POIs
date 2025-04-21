@@ -6,7 +6,7 @@ To run this project:
 2. Place them in the `west-midlands-latest-free/` folder (ignored from version control)
 
 
-# Predicting the Most Common POI Type in a Region using GIS + ML
+# Predicting the Most Common POI Type in a Region using GIS and ML
 
 This project uses OpenStreetMap data and spatial features (POI density, land use, place type) to predict the most common point-of-interest (POI) type per 500m grid cell across the West Midlands region.
 
