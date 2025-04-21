@@ -1,0 +1,21 @@
+# Ignore all geospatial data files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.geojson
+*.gpkg
+
+# Ignore folders for raw data and outputs
+west-midlands-latest-free/
+outputs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache
+__pycache__/
+
+# VSCode and system files
+.vscode/
+.DS_Store
